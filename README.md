@@ -9,10 +9,10 @@ I proposed to develop a predictive machine learning model that can determine whe
 The dataset contains nearly 20000 reports that includes claim status of the report, video id, duration, view count, like count, share count, download count, comment count, transcription text, author verified status and author ban status.
 
 To reach the goal, the development of the model is divided into following steps:
-1. [Exploratory Data Analysis](https://github.com/mertyaylacigit/TikTok-Claims-Classification)
-2. [Hypothesis Testing]()
-3. [ML model building]()
-4. [ML model evaluation]()
+1. [Exploratory Data Analysis](https://github.com/mertyaylacigit/TikTok-Claims-Classification/tree/main/docs/Exploratory%20Data%20Analysis%20(EDA))
+2. [Hypothesis Testing](https://github.com/mertyaylacigit/TikTok-Claims-Classification/tree/main/docs/Hypothesis%20Testing)
+3. [ML model building](https://github.com/mertyaylacigit/TikTok-Claims-Classification/tree/main/docs/ML%20model%20building)
+4. [ML model evaluation](https://github.com/mertyaylacigit/TikTok-Claims-Classification/tree/main/docs/ML%20model%20evaluation)
 
 
 ### Note: The scenario and data in this project are entirely fictitious and do not represent TikTok or any real-world entities. This project is a modified version of the end-of-course projects developed as part of the Google Advanced Data Analytics Certificate Program.
