@@ -9,5 +9,7 @@ pip install pandas
 pip install numpy
 pip install tiktokapi
 pip install pyktok
+pip install joblib
+pip install scikit-learn==1.3.2
 
 echo "All packages installed successfully!"

@@ -15,7 +15,27 @@ To reach the goal, the development of the model is divided into following steps:
 4. [ML model evaluation](https://github.com/mertyaylacigit/TikTok-Claims-Classification/tree/main/docs/ML%20model%20evaluation)
 
 
+
 ### Note: The scenario and data in this project are entirely fictitious and do not represent TikTok or any real-world entities. This project is a modified version of the end-of-course projects developed as part of the [Google Advanced Data Analytics Certificate](https://coursera.org/share/630539af8f8f5d593e009e94a199d013) Program.
+
+You can try the final model and check a TikTok video by following this setup:
+
+## Setup
+
+```bash
+git clone https://github.com/mertyaylacigit/TikTok-Claims-Classification.git
+
+cd TikTok-Claims-Classification
+
+python3 -m venv venv
+source venv/bin/activate
+
+chmod +x ./install.sh
+./install.sh
+
+python3 script.py https://www.tiktok.com/@paralympics/video/7375186925335924001
+
+```
 
 
 ## Contributors
